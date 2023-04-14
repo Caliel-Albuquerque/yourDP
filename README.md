@@ -19,7 +19,7 @@
 ### Link Canva
 (https://www.canva.com/design/DAFf47yEjO4/eYxZsGDZAeEFe3r7V4rhYA/edit?utm_content=DAFf47yEjO4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-#### Telas Principais
+## Telas Principais
 
 <div>
   <span>
@@ -31,6 +31,6 @@
   </span>
   
   <span>
-    <img src="https://user-images.githubusercontent.com/105212500/232110414-47bdbde8-8701-4aca-910c-997a1e5c16a6.png" width="267px" hight="497px" />
+    <img src="https://user-images.githubusercontent.com/105212500/232110970-fbc1f21a-d707-4cff-ad42-2a42059f4afa.png" width="267px" hight="497px" />
   </span>
 </div>
