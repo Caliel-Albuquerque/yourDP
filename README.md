@@ -27,6 +27,10 @@
   </span>
   
   <span>
-    <img src="https://user-images.githubusercontent.com/95629281/208242810-c8a15115-ceff-4ee2-a275-57543ff9d157.JPG" width="267px" hight="497px" />
+    <img src="https://user-images.githubusercontent.com/105212500/232110414-47bdbde8-8701-4aca-910c-997a1e5c16a6.png" width="267px" hight="497px" />
+  </span>
+  
+  <span>
+    <img src="https://user-images.githubusercontent.com/105212500/232110414-47bdbde8-8701-4aca-910c-997a1e5c16a6.png" width="267px" hight="497px" />
   </span>
 </div>
