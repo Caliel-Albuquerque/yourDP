@@ -21,8 +21,4 @@
 
 #### Telas Principais
 
-![Login](![Login](https://user-images.githubusercontent.com/105212500/232102119-89cacea7-3917-4a1a-800e-fe9a787e2e77.png))
-
-![Home](![Home](https://user-images.githubusercontent.com/105212500/232101630-f884cfd9-1d0b-433b-af85-6aa73168b292.png)) 
-
-![GOV](![GOV](https://user-images.githubusercontent.com/105212500/232101770-f90906f3-2eb5-4275-b0d2-c938963b0ed2.png))
+![Login](https://user-images.githubusercontent.com/105212500/232107015-91051d85-d14e-4c87-b473-d97f997e85a7.png)
