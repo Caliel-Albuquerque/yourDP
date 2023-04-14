@@ -13,9 +13,20 @@
 * Poderá mandar para a emprsa justificativa de falta, por meio de um formulário 
 * Poderá mandar para a emprsa uma solicitação de férias para a empresa, por meio de um formulário
 
-[Link para acesso: Canva e Figma, respectivamente.]
-(https://www.canva.com/design/DAFf47yEjO4/eYxZsGDZAeEFe3r7V4rhYA/edit?analyticsCorrelationId=bb4668cd-ff69-4d47-ae02-6d247a5632bf)
-(https://www.figma.com/proto/48S8A691ts9008aX59dcyJ/YourDP?node-id=22-2871&scaling=scale-down&page-id=0%3A1&starting-point-node-id=13%3A3938)
+<div>
+  <span>
+    <img src="![Login](https://user-images.githubusercontent.com/105212500/232103471-9d5a1772-030e-468f-a85a-8b25defe220c.png)" width="267px" hight="497px" />
+  </span>
+  &emsp;
+  &emsp;
+  &emsp;
+
+  <span>
+    <img src=(https://user-images.githubusercontent.com/105212500/232101630-f884cfd9-1d0b-433b-af85-6aa73168b292.png)"  width="267px" hight="497px" />
+  </span>
+</div>
+
+(https://www.figma.com/file/48S8A691ts9008aX59dcyJ/YourDP?node-id=0%3A1&t=Bmlf3m1aAaHDNDZq-1)
 
 #### Telas Principais
 
