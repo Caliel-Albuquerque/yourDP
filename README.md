@@ -21,4 +21,12 @@
 
 #### Telas Principais
 
-![Login](https://user-images.githubusercontent.com/105212500/232107015-91051d85-d14e-4c87-b473-d97f997e85a7.png)
+<div>
+  <span>
+    <img src="https://user-images.githubusercontent.com/95629281/208242764-24465b0c-75d6-41b9-98d0-9ea9cbbb2621.JPG" width="267px" hight="497px" />
+  </span>
+  
+  <span>
+    <img src="https://user-images.githubusercontent.com/95629281/208242810-c8a15115-ceff-4ee2-a275-57543ff9d157.JPG" width="267px" hight="497px" />
+  </span>
+</div>
