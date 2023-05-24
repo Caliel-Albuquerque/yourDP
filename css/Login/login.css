@@ -50,6 +50,11 @@
     border-radius: 16px;
     border: none;
     cursor: pointer;
+
+    color: #fff;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
 }
 
 .btnLogin a {
