@@ -49,6 +49,7 @@
     background: #2D1CC6;
     border-radius: 16px;
     border: none;
+    cursor: pointer;
 }
 
 .btnLogin a {

@@ -117,3 +117,8 @@ if(currentTimeString >= minTimeString && currentTimeString <= maxTimeString){
 }
 
 
+//nameUser 
+
+const nameUserData = USER_DATA.name; 
+
+let spanHome = document.getElementById("nameUser").innerHTML = nameUserData;

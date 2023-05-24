@@ -7,7 +7,6 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "YourDP",
-  "start_url": "/index.html",
   "start_url": "/",
   "theme_color": "#2d1cc6",
   "categories": [
@@ -203,7 +202,7 @@
       "src": "/img/favicon.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "maskable"
     }
   ],
   "iarc_rating_id": "E16+",
